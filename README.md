@@ -51,4 +51,4 @@ This project demonstrates how to send sensor data from an ESP32 to the cloud usi
 
 ---
 ## Step 3: Add the API key in code
-           String apiKey = "YPOR_API_KEY";
+           String apiKey = "YOUR_API_KEY";
